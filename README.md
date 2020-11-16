@@ -26,6 +26,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img align="left" alt="Python" width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png"/>
 <img align="left" alt="Html" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1920px-HTML5_logo_and_wordmark.svg.png"/>
+<img align="left" alt="Css" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
 <img align="left" alt="Microsoft" width="26px" src="https://pbs.twimg.com/profile_images/1062993041324171265/CcUjyxc9_400x400.jpg"/>
 <img align="left" alt="Google" width="26px" src="https://lz3g.com/wp-content/uploads/google-docs-icons.jpg"/>
 <img align="left" alt="Ardunio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png"/>
