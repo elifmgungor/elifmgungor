@@ -32,6 +32,7 @@
 <img align="left" alt="Ardunio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png"/>
 <img align="left" alt="openCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png"/>
 <img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/langfr-220px-Tensorflow_logo.svg.png"/>
+<img align="left" alt="Fusion360" width="26px" src="https://autodesk.gallerycdn.vsassets.io/extensions/autodesk/hsm-post-processor/3.4.0/1602693507640/Microsoft.VisualStudio.Services.Icons.Default"/>
 
 <br />
 <br />
