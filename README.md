@@ -7,7 +7,7 @@
 - ✨ I’m currently learning AI,ML and Blockchain.
 - 👀 I’m looking forward to explore and learn new things
 - 🎁 My 2020 goals: contribute more to Open Source projects.
-- 🎶 Fun fact: I love art and science
+- 🎶 Fun fact: I am passionate about neuroscience
 
 ### Spotify Playing 🎧
 
