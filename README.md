@@ -1,11 +1,11 @@
-### Hi there, I'm Maya aka [elifmgungor] 👋
+### Hi there, I'm Maya 👋
 
 ## I'm a Student and I'm trying to be a Developer!
 
 - 👩‍🎓 I'm studying at Saint Benoit French Highschool !
-- ✨ I’m currently learning everything 🤣
-- 👀 I’m looking to explore and learn new things on github
-- 🎁 2020 Goals: Contribute more to Open Source projects
+- ✨ I’m currently learning AI,ML and Blockchain.
+- 👀 I’m looking forward to explore and learn new things
+- 🎁 My 2020 goals: contribute more to Open Source projects.
 - 🎶 Fun fact: I love art and science
 
 ### Spotify Playing 🎧
