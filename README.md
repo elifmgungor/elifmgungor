@@ -13,7 +13,7 @@
 
 [<img src="https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ" alt="elifmgungor Spotify Playing" width="350" />](https://open.spotify.com/user/zqo14rhwoe1rquezr54uqd628)
 
-### Connect with me:
+### Contact with me:
 
 [<img align="left" alt="Maya GÜNGÖR | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Maya GÜNGÖR | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
