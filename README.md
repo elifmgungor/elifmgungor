@@ -1,4 +1,5 @@
 ### Hi there, I'm Maya 👋
+![Twitter Follow](https://img.shields.io/twitter/follow/EMayaGungor?color=%231DA1F2&logo=twitter&style=flat-square)
 
 ## I'm a Student and I'm trying to be a Developer!
 
