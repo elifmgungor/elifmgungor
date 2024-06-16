@@ -3,10 +3,10 @@
 
 ## I'm a Student and interested in coding!
 
-- 👩‍🎓 I'm studying at Saint Benoit French Highschool !
+- 👩‍🎓 I'm studying at Universite de Sorbonne !
 - ✨ I’m currently learning AI,ML and Blockchain.
 - 👀 I’m looking forward to explore and learn new things
-- 🎁 My 2020 goals: contribute more to Open Source projects.
+- 🎁 My 2024 goals: contribute more to Open Source projects.
 - 🎶 Fun fact: I am passionate about neuroscience
 
 ### Spotify Playing 🎧
