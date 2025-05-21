@@ -7,11 +7,6 @@
 - ✨ I’m currently learning AI,ML and Blockchain.
 - 👀 I’m looking forward to explore and learn new things
 - 🎁 My 2024 goals: contribute more to Open Source projects.
-- 🎶 Fun fact: I am passionate about neuroscience
-
-### Spotify Playing 🎧
-
-[<img src="https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ" alt="elifmgungor Spotify Playing" width="350" />](https://open.spotify.com/user/zqo14rhwoe1rquezr54uqd628)
 
 ### Contact with me:
 
@@ -37,20 +32,6 @@
 <br />
 <br />
 
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Mehmet Güleryüz Röpörtajı](http://saintbenoitsanat.blog/mehmet-guleryuz-roportaji/)
-- [Bienal Nedir, Bienallerin Amacı Nedir?](http://saintbenoitsanat.blog/100-2/)
-- [MSGSÜ Bienal Yorumu](http://saintbenoitsanat.blog/msgsu-bienal-yorumu-maya-gungor/)
-- [Duvar Fanzin Mayıs](https://issuu.com/duvarfanzin/docs/duvarmay_s)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](http://saintbenoitsanat.blog/)
-
----
 
 <details>
  <summary>:zap: GitHub Stats</summary> 
