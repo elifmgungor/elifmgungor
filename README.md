@@ -24,14 +24,3 @@
 <br />
 <br />
 
-
-<details>
- <summary>:zap: GitHub Stats</summary> 
-
-  <img align="left" alt="elifmgungor's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=elifmgungor&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: http://saintbenoitsanat.blog/
-[twitter]:https://twitter.com/EMayaGungor
-[youtube]: https://www.youtube.com/channel/UC7oNnGRiE1cSyWaeIjqlXIA?view_as=subscriber
