@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/EMayaGungor?color=%231DA1F2\&logo=twitter\&style=flat-square)
 
-## Bioinformatics student interested in neuroscience, data and coding 🧠💻
+## Bioinformatics student interested in computational neuroscience and genomics 🧠💻
 
 * 👩‍🎓 I'm currently pursuing a Master's degree in **Bioinformatics at Université Paris Cité**.
 * 🔬 I work on **biological data analysis, reproducible pipelines and scientific computing**.
@@ -10,8 +10,6 @@
 * 📊 I enjoy working with **Python, statistics, machine learning and data visualization**.
 * 🧪 My current work involves **single-particle analysis and NanoFCM data processing**.
 * 🌱 I'm currently expanding my skills in **neuroimaging, network neuroscience and machine learning**.
-* 🛠️ I like turning messy experimental data into clear, reproducible and reusable analysis workflows.
-* 🚀 I'm always looking for interesting research projects, open-source collaborations and new things to learn.
 
 ### Languages and Tools:
 
